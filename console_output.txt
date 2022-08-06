@@ -1,0 +1,2233 @@
+
+***** Fri Sep 10 20:10:07 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input new id: 5
+Input Product's Name: 5
+Input Product's quantity: 5
+Input Product's price: 5.0
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |  5         |  5         |  5         
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 4
+
+4. Save product list to file.
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 5
+
+5. Search by ID.
+Input the ID to search: 5
+Result:
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       5    |  5         |  5         |  5         
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 4
+
+4. Save product list to file.
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 5
+
+5. Search by ID.
+Input the ID to search: sp2
+Result:
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp2  |  Ram       |  7         |  7.7       
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 6
+
+6. Delete by ID.
+Input the id to delete: 3
+
+Deleted !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 7
+
+7. Sort by ID.
+
+Sorted !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       4    |  4         |  4         |  4         
+       5    |  5         |  5         |  5         
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp3  |  Cam       |  9         |  10        
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 8
+
+8. Convert to Binary.
+
+Quantity = 4 ==> (100)
+
+Successfully !
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 4
+
+4. Save product list to file.
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 9
+
+9. Load to stack and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp9  |  Xoai thai |  5         |  8.9       
+       sp8  |  Den pin   |  50        |  10        
+       sp7  |  O cung    |  6         |  6.666     
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp5  |  Chuot     |  4         |  4.4       
+       sp4  |  Man hinh  |  3         |  3         
+       sp3  |  Cam       |  9         |  10        
+       sp2  |  Ram       |  7         |  7.7       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp1  |  Nguon     |  8         |  8.8       
+       88   |  33        |  2         |  2.33      
+       5    |  5         |  5         |  5         
+       4    |  4         |  4         |  4         
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 10
+
+10. Load to queue and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       4    |  4         |  4         |  4         
+       5    |  5         |  5         |  5         
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp3  |  Cam       |  9         |  10        
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+
+***** Sat Sep 11 23:17:52 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 
+
+
+
+***** Mon Sep 13 21:11:36 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input new id: 3
+Id already exists !
+Input new id: 3
+Id already exists !
+Input new id: 5
+Input Product's Name:  
+Input Product's quantity: -5
+Input Product's price: -5.0
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 4
+
+4. Save product list to file.
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 5
+
+5. Search by ID.
+Input the ID to search: 6
+Result: -1
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 5
+
+5. Search by ID.
+Input the ID to search: 5
+Result:
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       5    |            |  -5        |  -5        
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 6
+
+6. Delete by ID.
+Input the id to delete: 6
+
+Product is not exists !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 6
+
+6. Delete by ID.
+Input the id to delete: 5
+
+Deleted !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 7
+
+7. Sort by ID.
+
+Sorted !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp3  |  Cam       |  9         |  10        
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 8
+
+8. Convert to Binary.
+
+Quantity = 3 ==> (11)
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 9
+
+9. Load to stack and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       5    |            |  -5        |  -5        
+       4    |  4         |  4         |  4         
+       3    |  3         |  3         |  3         
+       sp9  |  Xoai thai |  5         |  8.9       
+       sp8  |  Den pin   |  50        |  10        
+       sp7  |  O cung    |  6         |  6.666     
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp5  |  Chuot     |  4         |  4.4       
+       sp4  |  Man hinh  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp1  |  Nguon     |  8         |  8.8       
+       88   |  33        |  2         |  2.33      
+       sp3  |  Cam       |  9         |  10        
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 10
+
+10. Load to queue and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+***** Mon Sep 13 22:41:21 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input new id: 2
+Input Product's Name: Den pin
+Input Product's quantity: 
+
+***** Mon Sep 13 22:47:10 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input new id: 2
+Input Product's Name: Ly
+Input quantity: Input quantity: Input quantity: Bạn cần nhập sô: 
+
+***** Mon Sep 13 22:52:35 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input new id: 2
+Input Product's Name: Ly
+Input quantity: Input quantity: 8
+Input price: Input price: Input price: 4.5
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+       2    |  Ly        |  8         |  4.5       
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+***** Mon Sep 13 23:08:44 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: 
+
+***** Mon Sep 13 23:13:43 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: Bạn cần nhập sô: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: 
+
+***** Mon Sep 13 23:16:51 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id:   
+Input id: Input Name: 
+
+***** Mon Sep 13 23:21:44 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: 
+Input id: Input Name: 
+
+***** Mon Sep 13 23:40:49 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id: Input id: Input id: Input id: Input id: Input id: Input Name: Input name: Input name: chen
+Input quantity: 6
+Input price: Input price: 4.5
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+       6    |  chen      |  6         |  4.5       
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id: Input id: Input id: Input Name: Nuoc suoi
+Input quantity: Input quantity: 5
+Input price: 5.5
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+       6    |  chen      |  6         |  4.5       
+       7    |  Nuoc suoi |  5         |  5.5       
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+***** Mon Sep 13 23:48:45 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id: Input id: Input id: Input id: Input Name: 0
+Input quantity: Input quantity: Input quantity: 7
+Input price: Input price: 2.0
+
+Successfully !
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+***** Tue Sep 14 09:56:09 ICT 2021 *****
+
+     ***** CHƯƠNG TRÌNH QUẢN LÝ SẢN PHẨM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 
+
+***** Tue Sep 14 09:57:26 ICT 2021 *****
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: Bạn cần nhập sô: 
+
+***** Tue Sep 14 09:59:49 ICT 2021 *****
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: Input int: 0
+
+Thanks !
+
+
+***** Tue Sep 14 10:01:46 ICT 2021 *****
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: Input int: Input int: Input int: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id: Input id: Input id: Input Name: quat
+Input quantity: Input quantity: Input quantity: 8
+Input price: 9.9
+
+Successfully !
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 2
+
+2. Input & add to the end.
+Input id: Input id: Input id: Input Name: Hoa
+Input quantity: 9
+Input price: 3.7
+
+Successfully !
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       5    |            |  -5        |  -5        
+       2    |  quat      |  8         |  9.9       
+       sp22 |  Hoa       |  9         |  3.7       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 6
+
+6. Delete by ID.
+Input the id to delete: 5
+
+Deleted !
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       2    |  quat      |  8         |  9.9       
+       sp22 |  Hoa       |  9         |  3.7       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 4
+
+4. Save product list to file.
+
+Successfully !
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       2    |  quat      |  8         |  9.9       
+       sp22 |  Hoa       |  9         |  3.7       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 7
+
+7. Sort by ID.
+
+Sorted !
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 3
+
+3. Display data.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       2    |  quat      |  8         |  9.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp22 |  Hoa       |  9         |  3.7       
+       sp3  |  Cam       |  9         |  10        
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       2    |  quat      |  8         |  9.9       
+       sp22 |  Hoa       |  9         |  3.7       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
+
+
+***** Sat Aug 06 14:05:34 ICT 2022 *****
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 1
+
+1. Load data from file and display.
+       ID   |  Name      |  Quantity  |  Price     
+     -------|------------|------------|------------
+       sp3  |  Cam       |  9         |  10        
+       88   |  33        |  2         |  2.33      
+       sp1  |  Nguon     |  8         |  8.8       
+       sp10 |  Hoa hong  |  3         |  3         
+       sp2  |  Ram       |  7         |  7.7       
+       sp4  |  Man hinh  |  3         |  3         
+       sp5  |  Chuot     |  4         |  4.4       
+       sp6  |  Ban phim  |  5         |  5.555     
+       sp7  |  O cung    |  6         |  6.666     
+       sp8  |  Den pin   |  50        |  10        
+       sp9  |  Xoai thai |  5         |  8.9       
+       3    |  3         |  3         |  3         
+       4    |  4         |  4         |  4         
+       2    |  quat      |  8         |  9.9       
+       sp22 |  Hoa       |  9         |  3.7       
+
+Successfully!
+
+     ***** PRODUCT MANAGEMENT PROGRAM *****
+
+     |---Choose one of this options:---------|
+     |   Product list:                       |
+     |   1. Load data from file and display  |
+     |   2. Input & add to the end.          |
+     |   3. Display data                     |
+     |   4. Save product list to file.       |
+     |   5. Search by ID                     |
+     |   6. Delete by ID                     |
+     |   7. Sort by ID.                      |
+     |   8. Convert to Binary                |
+     |   9. Load to stack and display        |
+     |   10. Load to queue and display.      |
+     |   Exit:                               |
+     |   0. Exit                             |
+     |---------------------------------------|
+Choice: 0
+
+Thanks !
